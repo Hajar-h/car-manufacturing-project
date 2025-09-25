@@ -60,4 +60,3 @@ class articleDocument implements document {
  }
  }
 
- // dont forget the class diagrams

@@ -42,6 +42,3 @@
 
 
 
-  // dont forget the class diagrams
-
-  // submission by github repo link and zip file of codes.
